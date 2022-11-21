@@ -1,8 +1,6 @@
 # Hi there, I'm Ouilly 👋
 With a degree in Electromechanics from the University of Burundi, I’ve always enjoyed making things for people to utilize. Hence, I joined the Integrity International Academy Full Stack Program to become a web developer.
 
-<br>
-
 # Languages
 
 <img align="left" alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
