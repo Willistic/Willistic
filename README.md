@@ -1,6 +1,5 @@
 # Hi there, I'm Ouilly 👋
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=willistic&show_icons=true&theme=radical" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willistic&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+With a degree in Electromechanics from the University of Burundi, I’ve always enjoyed making things for people to utilize. Hence, I joined the Integrity International Academy Full Stack Program to become a web developer.
 
 <br>
 
