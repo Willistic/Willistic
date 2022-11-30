@@ -1,5 +1,5 @@
 # Hi there, I'm Ouilly 👋
-With a degree in Electromechanics from the University of Burundi, I’ve always enjoyed making things for people to utilize. Therefore, I joined the Integrify International Academy Full Stack Program to become a web developer.
+With a degree in Electromechanics, I’ve always enjoyed making things for people to utilize. Therefore, I joined the Integrify International Academy Full Stack Program to become a web developer.
 
 # Languages
 
