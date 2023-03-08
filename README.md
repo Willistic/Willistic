@@ -1,4 +1,4 @@
-# Hi there, I'm Ouilly 👋
+# Hi there, I'm Will 👋
 I’ve always enjoyed making things for people to utilize. Therefore, I joined the Integrify International Academy Full Stack Program to become a web and mobile developer.
 
 # Languages
