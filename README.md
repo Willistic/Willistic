@@ -3,9 +3,7 @@
 <img align=”right” width=”400” src=”https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif”
 
 - 💬 Ask me about **React, React Native, MongoDB, NodeJS, Express**
-
 - 📫 How to reach me **jlubbick@aol.com**
-
 - ⚡ Fun fact **I think Kobe was better than M.J and LBJ 😎**
 
 <h3 align="left">Languages and Tools:</h3>
