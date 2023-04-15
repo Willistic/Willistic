@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **React, React Native, MongoDB, NodeJS, Express**
 - 📫 How to reach me **jlubbick@aol.com**
-- ⚡ Fun fact **I think Kobe was better than M.J and LBJ 😎**
+- ⚡ Fun fact **I believe Kobe comes after M.J and before LBJ 😎**
 
 <h3 align="left">Languages and Tools:</h3>
 
