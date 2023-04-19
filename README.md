@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Willy</h1>
+<h1 align="center">Hi 👋, I'm Will</h1>
 <h3 align="center">A father, software developer and a sport zealot</h3>
 <img align=”right” width=”400” src=”https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif”
 
