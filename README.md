@@ -2,7 +2,7 @@
 <h3 align="center">A father, software developer and a sport zealot</h3>
 <img align=”right” width=”400” src=”https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif”
 
-- 💬 Ask me about **JavaScript, TypeScript, React, React Native, MongoDB, NodeJS, Express**
+- 💬 Ask me about **JavaScript, TypeScript, React, React Native, MongoDB, NodeJS, Express, Material UI, Tailwind**
 - 📫 How to reach me **jlubbick@aol.com**
 - ⚡ Fun fact **I believe Kobe comes after M.J and before LBJ 😎**
 
