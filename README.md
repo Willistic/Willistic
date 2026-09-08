@@ -2,7 +2,7 @@
 <h3 align="center">Currently working as a front-end developer at Siemens 💻</h3>
 <img align=”right” width=”400” src=”https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif”
 
-- 💬 Experienced in **JavaScript, TypeScript, Python, Nextjs, ReactJS, ReactPY, React Native, Redux, Zustand, MongoDB, MySQL, NodeJS, Express, CI/CD pipelines, and modern CSS/SASS ecosystems**
+- 💬 Experienced in **JavaScript, TypeScript, Python, Nextjs, ReactJS, ReactPY, React Native, Redux, Zustand, MongoDB, MySQL, NodeJS, Express, Jenkins & Gitlab CI/CD pipelines, and modern CSS/SASS ecosystems**
 - 📫 How to reach me **jlubbick@aol.com**
 - ⚡ Fun fact ** I believe Kobe comes after M.J and before LBJ 😎 **
 
